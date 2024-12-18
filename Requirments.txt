@@ -1,0 +1,9 @@
+uuid
+react-router-dom 
+tailwind
+react-hot-toast
+react-avatar
+code mirror version 5.65.15 (dracula theme)
+express
+socket.io
+socket.io-client
